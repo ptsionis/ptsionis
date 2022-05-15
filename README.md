@@ -5,6 +5,5 @@
 <h4 align="center">🔍You can find me on:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/ptsionis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" width="24px" height="24px"></a>
-<a href="https://twitter.com/ptsionis"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="24px" height="24px"></a>
 <a href="https://www.facebook.com/ptsionis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1024px-Facebook_icon_2013.svg.png" width="24px" height="24px"></a>
 </p>
