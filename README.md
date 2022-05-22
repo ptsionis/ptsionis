@@ -5,5 +5,4 @@
 <h4 align="center">🔍You can find me on:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/ptsionis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" width="24px" height="24px"></a>
-<a href="https://www.facebook.com/ptsionis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1024px-Facebook_icon_2013.svg.png" width="24px" height="24px"></a>
 </p>
