@@ -28,6 +28,6 @@
     <h4>📫 Reach me out at:</h4>
     <ul style="list-style:none; display: flex">
         <li><a href="https://www.linkedin.com/in/ptsionis/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25px" height="auto"></a></li>
-        <li><a href="https://github.com/ptsionis"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="LinkedIn" width="25px" height="auto"></a></li>
+        <li><a href="https://github.com/ptsionis"><img src="[https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg](https://www.pngitem.com/pimgs/m/128-1280311_github-icon-white-png-github-icon-black-background.png)" alt="LinkedIn" width="25px" height="auto"></a></li>
     </ul>
 </div>
