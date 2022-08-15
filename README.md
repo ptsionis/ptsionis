@@ -6,7 +6,7 @@
     <h6>📌 About me:</h6>
     <ul>
         <li>🎓 I am an undergraduate student, studying <a href="https://www.uom.gr/dai" style="color:red; font-weight:bold">Applied Informatics</a> at University of Macedonia.</li>
-        <li>🌱 Currently learning <a href="https://github.com/ptsionis/ frontend-mentor-projects" style="color:rgb(243, 122, 49)">HTML</a>, <a href="https://github.com/ptsionis/frontend-mentor-projects" style="color:rgb(0, 143, 216); font-weight:bold">CSS</a> and <a href="https://github.com/ptsionis/frontend-mentor-projects" style="color:rgb(250, 157, 53)">JavaScript</a> in order to develop my Front-end development skills.</li>
+        <li>🌱 Currently learning <a href="https://github.com/ptsionis/ frontend-mentor-projects" color="rgb(243, 122, 49)">HTML</a>, <a href="https://github.com/ptsionis/frontend-mentor-projects" style="color:rgb(0, 143, 216); font-weight:bold">CSS</a> and <a href="https://github.com/ptsionis/frontend-mentor-projects" style="color:rgb(250, 157, 53)">JavaScript</a> in order to develop my Front-end development skills.</li>
         <li>👨‍💻 Member of the <a href="https://github.com/Nerdwork-Team" style="color: rgb(57, 175, 38); font-weight:bold">NerdWork</a> team, which won the "Best Software Engineering Project" award.</li>
     </ul>
 </div>
