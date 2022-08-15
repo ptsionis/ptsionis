@@ -1,9 +1,9 @@
-<h4 align="center">👋 Hi, my name is Panagiotis Tsionis!</h4>
+<h2 align="center">👋 Hi, my name is Panagiotis Tsionis!</h2>
 <hr>
-<h5 align="center">💾 This is my GitHub page and also my personal portfolio, where I save my university and personal projects, tests, experiments etc.</h5>
+<h3 align="center">💾 This is my GitHub page and also my personal portfolio, where I save my university and personal projects, tests, experiments etc.</h3>
 <hr>
 <div class="about-me">
-    <h6>📌 About me:</h6>
+    <h4>📌 About me:</h4>
     <ul>
         <li>🎓 I am an undergraduate student, studying <a href="https://www.uom.gr/dai">Applied Informatics</a> at University of Macedonia.</li>
         <li>🌱 Currently learning <a href="https://github.com/ptsionis/ frontend-mentor-projects">HTML</a>, <a href="https://github.com/ptsionis/frontend-mentor-projects">CSS</a> and <a href="https://github.com/ptsionis/frontend-mentor-projects">JavaScript</a> in order to develop my Front-end development skills.</li>
@@ -12,7 +12,7 @@
 </div>
 <hr>
 <div class="tools">
-    <h6>🔨 Tools that I use:</h6>
+    <h4>🔨 Tools that I use:</h4>
     <ul>
         <li><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="25px" height="auto"></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="25px" height="auto"></li>
@@ -25,7 +25,7 @@
 </div>
 <hr>
 <div class="reach-me">
-    <h6>📫 Reach me out at:</h6>
+    <h4>📫 Reach me out at:</h4>
     <ul style="list-style:none; display: flex">
         <li><a href="https://www.linkedin.com/in/ptsionis/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25px" height="auto"></a></li>
         <li><a href="https://github.com/ptsionis"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="LinkedIn" width="25px" height="auto"></a></li>
