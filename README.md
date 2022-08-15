@@ -1,6 +1,6 @@
-<h4 style="text-align:center">👋 Hi, my name is Panagiotis Tsionis!</h4>
+<h4 align="center">👋 Hi, my name is Panagiotis Tsionis!</h4>
 <hr>
-<h5 style="text-align:center">💾 This is my GitHub page and also my personal portfolio, where I save my university and personal projects, tests, experiments etc.</h5>
+<h5 align="center">💾 This is my GitHub page and also my personal portfolio, where I save my university and personal projects, tests, experiments etc.</h5>
 <hr>
 <div class="about-me">
     <h6>📌 About me:</h6>
