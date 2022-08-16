@@ -26,7 +26,7 @@
 <hr>
 <div class="reach-me">
     <h4>📫 Reach me out at:</h4>
-    <ul style="list-style:none; display: flex">
+    <ul display="flex">
         <li><a href="https://www.linkedin.com/in/ptsionis/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25px" height="auto"></a></li>
         <li><a href="https://github.com/ptsionis"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="25px" height="auto"></a></li>
     </ul>
