@@ -7,7 +7,6 @@
     <ul>
         <li>🎓 I am an undergraduate student, studying <a href="https://www.uom.gr/dai">Applied Informatics</a> at University of Macedonia.</li>
         <li>🌱 Currently learning <a href="https://github.com/ptsionis/ frontend-mentor-projects">HTML</a>, <a href="https://github.com/ptsionis/frontend-mentor-projects">CSS</a> and <a href="https://github.com/ptsionis/frontend-mentor-projects">JavaScript</a> in order to develop my Front-end development skills.</li>
-        <li>👨‍💻 Member of the <a href="https://github.com/Nerdwork-Team">NerdWork</a> team, which won the "Best Software Engineering Project" award.</li>
     </ul>
 </div>
 <hr>
